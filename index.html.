@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Voces y participación ciudadana</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; background: #f9f9f9; }
+    h1, h2 { color: #2c3e50; }
+    .seccion { margin-bottom: 40px; padding: 20px; background: #fff; border-radius: 8px; }
+  </style>
+</head>
+<body>
+
+  <h1>Voces y participación ciudadana</h1>
+  <div class="seccion">
+    <h2>Bienvenida</h2>
+    <p>Bienvenidas al curso <em>Voces y participación ciudadana</em>. Aquí aprenderás de manera sencilla cómo fortalecer tu participación en la comunidad, conocer tus derechos y usar herramientas prácticas.</p>
+    <h3>Objetivo general</h3>
+    <p>Fortalecer las competencias ciudadanas de un grupo de mujeres líderes comunitarias mediante un curso en modalidad b-learning, que combina actividades conceptuales, colaborativas y prácticas.</p>
+    <h3>Competencias</h3>
+    <ul>
+      <li>Comunicación efectiva, pensamiento crítico, trabajo en equipo y uso básico de TIC.</li>
+      <li>Reconocer los mecanismos de participación ciudadana y aplicar el derecho de petición en casos concretos.</li>
+      <li>Confianza en sí mismas, autonomía y liderazgo comunitario.</li>
+    </ul>
+    <p><strong>Actividad inicial:</strong> Cuestionario en <a href="https://www.mentimeter.com/" target="_blank">Mentimeter</a></p>
+  </div>
+
+  <div class="seccion">
+    <h2>Sección 1. Conceptos básicos</h2>
+    <p>La participación ciudadana es la manera en que las personas toman parte en las decisiones que afectan su vida y su comunidad (Constitución Política de Colombia, 1991, arts. 103–106).</p>
+    <p><strong>Actividad:</strong> Responde en <a href="https://padlet.com" target="_blank">Padlet</a>: ¿Qué mecanismos de participación has usado en tu comunidad?</p>
+  </div>
+
+  <div class="seccion">
+    <h2>Sección 2. Actividades de aprendizaje</h2>
+    <p>Taller de redacción de un derecho de petición (Google Docs compartido por el tutor).</p>
+    <p>Estudio de caso práctico sobre problemáticas comunitarias.</p>
+  </div>
+
+  <div class="seccion">
+    <h2>Sección 3. Práctica comunitaria</h2>
+    <p>Ejercicio de cartografía social: mapa sencillo donde se identifiquen problemas comunitarios y soluciones.</p>
+    <p>Sube tus evidencias en la galería digital (Google Drive).</p>
+  </div>
+
+  <div class="seccion">
+    <h2>Sección 4. Cierre y evaluación</h2>
+    <p>Responde el cuestionario final en <a href="https://kahoot.it" target="_blank">Kahoot</a>.</p>
+    <p>Comparte tus aprendizajes en el espacio de retroalimentación.</p>
+  </div>
+
+  <div class="seccion">
+    <h2>Referencias</h2>
+    <ul>
+      <li>Constitución Política de Colombia. (1991). Bogotá: Asamblea Nacional Constituyente.</li>
+      <li>Rodríguez, C. A., & López, R. (2018). Recursos Educativos Digitales y prácticas pedagógicas innovadoras. UNAD.</li>
+      <li>Ministerio de Educación Nacional (MEN). (2012). Recursos Educativos Digitales Abiertos en Colombia. MEN.</li>
+      <li>Barragán-León, M. (2019). La cartografía social como estrategia pedagógica para la investigación cualitativa. Revista Latinoamericana de Educación y Política, 11(2), 45–59.</li>
+      <li>Biggs, J., & Tang, C. (2011). Teaching for quality learning at university. Open University Press.</li>
+    </ul>
+  </div>
+
+</body>
+</html>

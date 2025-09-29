@@ -2,64 +2,88 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Voces y participación ciudadana</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; background: #f9f9f9; }
-    h1, h2 { color: #2c3e50; }
-    .seccion { margin-bottom: 40px; padding: 20px; background: #fff; border-radius: 8px; }
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9fafb; color: #1f2937; }
+    header { background: #0ea5e9; color: white; padding: 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 28px; }
+    nav { background: #0369a1; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; margin: 20px; background: white; border-radius: 8px; }
+    h2 { color: #0f172a; }
+    ul { margin: 10px 0 10px 20px; }
+    footer { background: #0ea5e9; color: white; padding: 20px; text-align: center; margin-top: 20px; }
   </style>
 </head>
 <body>
 
+<header>
   <h1>Voces y participación ciudadana</h1>
-  <div class="seccion">
-    <h2>Bienvenida</h2>
-    <p>Bienvenidas al curso <em>Voces y participación ciudadana</em>. Aquí aprenderás de manera sencilla cómo fortalecer tu participación en la comunidad, conocer tus derechos y usar herramientas prácticas.</p>
-    <h3>Objetivo general</h3>
-    <p>Fortalecer las competencias ciudadanas de un grupo de mujeres líderes comunitarias mediante un curso en modalidad b-learning, que combina actividades conceptuales, colaborativas y prácticas.</p>
-    <h3>Competencias</h3>
-    <ul>
-      <li>Comunicación efectiva, pensamiento crítico, trabajo en equipo y uso básico de TIC.</li>
-      <li>Reconocer los mecanismos de participación ciudadana y aplicar el derecho de petición en casos concretos.</li>
-      <li>Confianza en sí mismas, autonomía y liderazgo comunitario.</li>
-    </ul>
-    <p><strong>Actividad inicial:</strong> Cuestionario en <a href="https://www.mentimeter.com/" target="_blank">Mentimeter</a></p>
-  </div>
+  <p>Curso en modalidad b-learning para fortalecer la participación comunitaria</p>
+</header>
 
-  <div class="seccion">
-    <h2>Sección 1. Conceptos básicos</h2>
-    <p>La participación ciudadana es la manera en que las personas toman parte en las decisiones que afectan su vida y su comunidad (Constitución Política de Colombia, 1991, arts. 103–106).</p>
-    <p><strong>Actividad:</strong> Responde en <a href="https://padlet.com" target="_blank">Padlet</a>: ¿Qué mecanismos de participación has usado en tu comunidad?</p>
-  </div>
+<nav>
+  <a href="#inicio">Inicio</a>
+  <a href="#conceptos">Conceptos</a>
+  <a href="#actividades">Actividades</a>
+  <a href="#practica">Práctica</a>
+  <a href="#cierre">Cierre</a>
+  <a href="#referencias">Referencias</a>
+</nav>
 
-  <div class="seccion">
-    <h2>Sección 2. Actividades de aprendizaje</h2>
-    <p>Taller de redacción de un derecho de petición (Google Docs compartido por el tutor).</p>
-    <p>Estudio de caso práctico sobre problemáticas comunitarias.</p>
-  </div>
+<section id="inicio">
+  <h2>Bienvenida</h2>
+  <p>Bienvenidas al curso <em>Voces y participación ciudadana</em>. Aquí aprenderás cómo fortalecer tus derechos y la participación en tu comunidad a través de recursos digitales sencillos.</p>
+  <h3>Objetivo general</h3>
+  <p>Fortalecer las competencias ciudadanas de un grupo de mujeres líderes mediante un curso en modalidad b-learning, combinando contenidos conceptuales, actividades colaborativas y prácticas comunitarias.</p>
+  <h3>Competencias</h3>
+  <ul>
+    <li><strong>Transversales:</strong> comunicación, pensamiento crítico, trabajo en equipo y uso básico de TIC.</li>
+    <li><strong>Específicas:</strong> reconocer los mecanismos de participación ciudadana y aplicar el derecho de petición en casos concretos.</li>
+    <li><strong>Socioemocionales:</strong> confianza en sí mismas, autonomía y liderazgo comunitario.</li>
+  </ul>
+</section>
 
-  <div class="seccion">
-    <h2>Sección 3. Práctica comunitaria</h2>
-    <p>Ejercicio de cartografía social: mapa sencillo donde se identifiquen problemas comunitarios y soluciones.</p>
-    <p>Sube tus evidencias en la galería digital (Google Drive).</p>
-  </div>
+<section id="conceptos">
+  <h2>Conceptos básicos</h2>
+  <p>La participación ciudadana es la forma en que las personas toman parte en las decisiones que afectan su vida y su comunidad.</p>
+  <ul>
+    <li>Derecho de petición</li>
+    <li>Cabildo abierto</li>
+    <li>Veeduría ciudadana</li>
+  </ul>
+</section>
 
-  <div class="seccion">
-    <h2>Sección 4. Cierre y evaluación</h2>
-    <p>Responde el cuestionario final en <a href="https://kahoot.it" target="_blank">Kahoot</a>.</p>
-    <p>Comparte tus aprendizajes en el espacio de retroalimentación.</p>
-  </div>
+<section id="actividades">
+  <h2>Actividades de aprendizaje</h2>
+  <p>Taller de redacción de un derecho de petición (Google Docs). Estudio de caso práctico y participación en un Padlet colaborativo.</p>
+</section>
 
-  <div class="seccion">
-    <h2>Referencias</h2>
-    <ul>
-      <li>Constitución Política de Colombia. (1991). Bogotá: Asamblea Nacional Constituyente.</li>
-      <li>Rodríguez, C. A., & López, R. (2018). Recursos Educativos Digitales y prácticas pedagógicas innovadoras. UNAD.</li>
-      <li>Ministerio de Educación Nacional (MEN). (2012). Recursos Educativos Digitales Abiertos en Colombia. MEN.</li>
-      <li>Barragán-León, M. (2019). La cartografía social como estrategia pedagógica para la investigación cualitativa. Revista Latinoamericana de Educación y Política, 11(2), 45–59.</li>
-      <li>Biggs, J., & Tang, C. (2011). Teaching for quality learning at university. Open University Press.</li>
-    </ul>
-  </div>
+<section id="practica">
+  <h2>Práctica comunitaria</h2>
+  <p>Ejercicio de cartografía social para identificar problemas de la comunidad y posibles soluciones. Evidencias organizadas en una galería digital (Google Drive).</p>
+</section>
+
+<section id="cierre">
+  <h2>Cierre y evaluación</h2>
+  <p>Cuestionario final en Kahoot y espacio de retroalimentación colectiva. Socialización de los aprendizajes y conclusiones del curso.</p>
+</section>
+
+<section id="referencias">
+  <h2>Referencias</h2>
+  <ul>
+    <li>Constitución Política de Colombia. (1991). Bogotá: Asamblea Nacional Constituyente.</li>
+    <li>Rodríguez, C. A., & López, R. (2018). Recursos Educativos Digitales y prácticas pedagógicas innovadoras. UNAD.</li>
+    <li>Ministerio de Educación Nacional (MEN). (2012). Recursos Educativos Digitales Abiertos en Colombia. MEN.</li>
+    <li>Barragán-León, M. (2019). La cartografía social como estrategia pedagógica para la investigación cualitativa. Revista Latinoamericana de Educación y Política, 11(2), 45–59.</li>
+    <li>Biggs, J., & Tang, C. (2011). Teaching for quality learning at university. Open University Press.</li>
+  </ul>
+</section>
+
+<footer>
+  <p>Curso Voces y participación ciudadana · 2025</p>
+</footer>
 
 </body>
 </html>
